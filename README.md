@@ -1,10 +1,10 @@
-### Hi there 👋
+### Welcome fellow guest
 
-Reach out: 
+Worked on / developing distributed enterprise software solutions for various markets in finance, media creation and publishing, ...
 
-Enterprise Software Architect, Distributed, Cloud and Blockchain Solutions, Full-Stack .Net and Web Developer
+Full-Stack Development
 
-Currently learning: a lot of python, AI systems, prompt engineering
+Currently learning: a lot of python, AI systems, prompt engineering, automation, devops
 
 <!--
 **0xDO/0xDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

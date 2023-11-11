@@ -2,7 +2,7 @@
 
 Worked on / developing distributed enterprise software solutions for various markets in finance, media creation and publishing, ...
 
-Full-Stack Software Architecture and Development Middleware, Backend, Frontend
+Full-Stack Systems Architect and Software Development of Middleware, Backend and Frontend systems
 
 Currently learning: a lot of python, AI systems, prompt engineering, automation, devops
 

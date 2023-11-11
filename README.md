@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Reach out: 
+
+Enterprise Software Architect, Distributed, Cloud and Blockchain Solutions, Full-Stack .Net and Web Developer
+
+Currently learning: a lot of python, AI systems, prompt engineering
+
 <!--
 **0xDO/0xDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

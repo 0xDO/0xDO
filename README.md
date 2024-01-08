@@ -58,7 +58,7 @@ I design, create, implement and deploy, scalable and secure solutions for Backen
 - testing Go,TEMPL, HTMX ftw.
 - a lot of Python, AI frameworks, prompt engineering, LLM..... and preparing for AGI 🔭
 
-📫
+📫 [LinkedIn](https://www.linkedin.com/in/42dorian/)
 
 <!--
 **0xDO/0xDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,23 +1,21 @@
 ## Welcome fellow guest 💬 
 
-:signal_strength: Worked on / developing distributed enterprise software solutions for various markets in finance, media creation and publishing, ...
 
-⚡ I consider myself a Full-Stack Systems Architect. Over the last three decades I did a lot of software projects as freelancer and hired.  
-This allowed me to develop a broad AND deep understanding of many technologies.  
-Expert for Design...Create...Implement...Deploy...Scale and Protect enterprise-grade Middleware, Backend and Frontend systems, components, services...  
-👯 Happy to offer you solid tech consulting for your company.  
-We responsibly implement, create or upgrade your tech stack in coordination with your developers, product owners, company policy.⚡
+📶 Extensive experience in developing distributed enterprise software solutions for various markets in finance, media creation and publishing, ...
+
+⚡ I consider myself a Full-Stack Systems Architect. Over the last three decades I did a lot of software projects as freelancer and hired.
+This allowed me to develop a broad AND deep understanding of many technologies.
+I design, create, implement, deploy, scale and protect Backend, Middleware and Frontend Systems, Components and Services.
+👯 Happy to offer you solid tech consulting for your company.
+Together we responsibly implement, create and/or upgrade your tech stack in coordination with your developers, product owners, company policy.⚡
 
 ### 🔱 Areas of expertise
 
     * Trading & Finance Market:
-        - worked with many state-of-technology api|data|service providers for Stocks, Options, Forex, FIAT, Crypto i.e.
-            * Market Data Provider APIs
-            * Bloomberg, Euronext, NYSE, AMSE
-            * Crypto APIs: Binance, Kraken
-
+        - worked with all major api|data|service providers for Stocks, Options, Forex, FIAT or Crypto like Binance, Kraken, Bloomberg, Euronext, NYSE, AMSE, and many more
+            
     * DevOps - Automation, IOT, CI, CD
-        - the more the better, automation is the future!
+        - the more the better, automation is the future! As a lazy coder I always try to automate when possible. 
 
     * Windows Software Development:
          Design...Create...Implement...Deploy...Scale...Protect... Again :D 
@@ -29,12 +27,19 @@ We responsibly implement, create or upgrade your tech stack in coordination with
 
         To keep it shorter. I will only list technologies, where I have at least developed one finished customer project in.
 
-        Techstack:  
-         - Languages(expert-current): C#, JavaScript, TypeScript, SQL, 
-         - Languages(expert): C, VC++, PHP, 
-         - Languages(pro): C++, MSVC, Java,
-         - Frameworks and APIs[connected and usedInProduction]:
-            - Windows API, VSCode API, OpenAI API, 
+        - Techstack
+          - Languages(expert-current): C#, JavaScript, SQL, 
+          - Languages(expert): C, PHP
+          - Languages(pro): C++, C++/CLI, VC++, Java
+          - Frameworks and APIs[connected and usedInProduction]:
+            - Windows API, VSCode API, OpenAI API, OAuth, 
+            - .Net, .Net Core, WPF/XAML, MAUI, autogen, React, Angular, Node.js, 
+            - TypeScript, Webcomponents, htmx, 
+          - Databases and ORM:
+            - Entity Framework,
+            - MS-SQL, MySQL, Postgres,
+          - Cloud:
+            - Docker, Kubernetes, Azure, AWS
          
     * Software expert with:
         OS:
@@ -50,10 +55,9 @@ We responsibly implement, create or upgrade your tech stack in coordination with
         - 
 
 
-
 ### 🌱 Currently learning
-
-a lot of python, AI frameworks, prompt engineering, LLM..... and preparing for AGI 🔭
+- testing Go,TEMPL, HTMX ftw.
+- a lot of Python, AI frameworks, prompt engineering, LLM..... and preparing for AGI 🔭
 
 📫
 

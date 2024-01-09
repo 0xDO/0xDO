@@ -1,12 +1,14 @@
 # Welcome fellow guest 👯
 
+⚡1996, almost three decades ago, I started my IT career, developing the first websites and digital services. Since then I worked in a lot of software projects for various companies in finance, science, media creation and publishing. This allowed me to develop a broad and also deep understanding in many technologies.
+
+## :atom: About me  
+
 I design, create, implement and deploy, scalable and secure solutions for Backend, Middleware and Frontend.
 
 Happy to offer you top-notch tech-consulting and software services for your business 🎯
 
 Together we responsibly implement, create and/or upgrade your tech stack in coordination with your developers, product owners and involved parties 🔒
-
-⚡1996, almost three decades ago, I started my IT career, developing the first websites and digital services. Since then I worked in a lot of software projects for various companies in finance, science, media creation and publishing. This allowed me to develop a broad and also deep understanding in many technologies.
 
 ## 🎥 My main roles  
 
@@ -32,7 +34,7 @@ I am working in agile managed projects for many years and in all roles. I like a
 ### DevOps and Automation
 > the more the better, automation is the future!
 
-## Main Techstack
+## 🔨 Main Techstack
 * Expert (currently active): C#, Natural Language Prompt-engineering
 * Expert: C, JavaScript, PHP
 * Pro: C++, C++/CLI, VC++, Java
@@ -52,37 +54,40 @@ Powershell, Python, Jenkins, Gitea, GitHub Actions
 * OS  
 Expert with Windows(Server|Desktop) and Linux servers(various) using Shell.  
 
-
-
-### 💡 How to start?
+## 💡 How to start?
 
 Maybe in the near AI-driven future not that important anymore but choosing the right tech stack, strategies and programming paradigms is crucial for solid enterprise-ready software. Choosing the perfect mix of technologies right from the start to provide a solid and efficient fundament.... and of course some SOLID is in there as well ;)
 
-### 🏅 Entrepreneur and Networker
+## 🏅 Entrepreneur and Networker
 
 Happy to connect with you and find what new possibilities we can uncover. maybe there's a promising business opportunity just around the corner >>> AI is working pretty well. Acceleration, Disruption and Evolution in almost every aspect of life... crazy times  
 
-### 🎙️ I also do music/multimedia production  
+## 🎙️ I also do music/multimedia production  
 
 with Ableton, Rekordbox, Traktor Pro, After Effects, Photoshop, Premiere, many more 🎧[^djing]  
 
-### 📈 Good-Enough-to-mention-Skills from i.e. Workshops, POCs, Presentations, simple projects  
+## 📈 Good-Enough-to-Mention-Skills [^gems]
 
-    - Game Development: Unity Engine, VR
-    - Cryptography, Encryption, Game theory: Bitcoin/Lightning, Ethereum, Smart Contract, 
-    - Cloud: Kubernetes, Azure, AWS, LGTM
+* Game Development: Unity Engine, VR
+* Cryptography, Encryption, Game theory: Bitcoin/Lightning, Ethereum, Smart Contract, 
+* Cloud: Kubernetes, Azure, AWS, LGTM
 
-### 🌱 Current focus
+## 🌱 Current focus
 
-    - POC: Go, TEMPL, HTMX >>> ftw
-    - Mobile App POC: Cross-Platform with React Native
-    - LLMs, AI(Agent)-Frameworks, Prompt Engineering, a lot of Python..... and preparing for AGI 🔭
+* POC: Go, TEMPL, HTMX >>> ftw 
+* Mobile App POC: Cross-Platform with React Native
+* LLMs, AI(Agent)-Frameworks, Prompt Engineering, a lot of Python..... and preparing for AGI 🔭
+
+### Find me on  
 
 📫 [My LinkedIn](https://www.linkedin.com/in/42dorian/)  
   
 [^paperclip]:  
     The infamous Paperclip Maximizer:  
     The Paperclip Maximizer is a thought experiment described by Swedish philosopher Nick Bostrom in 2003. It illustrates the existential risk that an artificial general intelligence may pose to human beings if it is successfully designed to pursue even seemingly harmless goals. The scenario describes an advanced AI tasked with manufacturing paperclips.0 The paperclip maximizer is an example of instrumental convergence, which suggests an AI could seek to fulfil a harmless goal in harmful ways from the human point of view. Harnessing a true AI to simple, seemingly innocent tasks could pose existential risk to humans if we don't safely know how to make a machine value human life.1
+
+[^gems]:
+    aquired from Workshops, POCs, Presentations, simple projects
 
 [^djing]:
     Sometimes I enjoy DJing various electronic music

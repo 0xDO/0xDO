@@ -4,50 +4,55 @@ I design, create, implement and deploy, scalable and secure solutions for Backen
 
 Happy to offer you top-notch tech-consulting and software services for your business 🎯
 
-Together we responsibly implement, create and/or upgrade your tech stack in coordination with your developers, product owners and involved parties 💪
+Together we responsibly implement, create and/or upgrade your tech stack in coordination with your developers, product owners and involved parties 🔒
 
 ⚡1996, almost three decades ago, I started my IT career, developing the first websites and digital services. Since then I worked in a lot of software projects for various companies in finance, science, media creation and publishing. This allowed me to develop a broad and also deep understanding in many technologies.
 
-### 🎥 My main roles  
+## 🎥 My main roles  
 
 Software Engineer, Systems Architect, Full-Stack Developer, Project Manager and Tech-Consultant (professionally for 20+ years)
 
-### 🔱 My areas of expertise
+## 🔱 My areas of expertise
 
-    - .NET Application Development: A great platform for developers.
-        Design...Create...Deploy...Implement...Scale...Secure
+I am working in agile managed projects for many years and in all roles. I like a progressive Scrum XP approach while also regarding parameters like policy, requirements, setting or teamsize.
 
-    - Trading & Finance:
-        - worked with all major api|data|service providers for Stocks, Options, Forex, FIAT or Crypto  
-          like Binance, Kraken, Bloomberg, Euronext, NYSE, AMSE, and many more
+### .NET Application Development:   
+> A great platform for developers  
+> *Design...Create...Deploy...Implement...Scale...Secure*
 
-    - AI Prompt Engineering... Absolutely hot and must-have!
-      Following the latest development, learning the new tech to help shaping the future
+### Trading & Finance
+> I worked with all major api|data|service providers for Stocks, Options, Forex, FIAT or Crypto like Binance, Kraken, Bloomberg, Euronext, NYSE, AMSE, and many more
 
-    - Creating distributed services: APIs, IaaS, Microservices
+### AI, LLMs, NLP... Absolutely hot and must-have! Beware📎[^paperclip]
+> Following the latest development, learning the new tech to help shaping the future
 
-    - DevOps and Automation: the more the better, automation is the future!
+### APIs, IaaS, Microservices
+> Create custom or extend exisiting distributed services 
 
-    - Main Techstack
-        - expert-current: C#, Natural Language Prompt-engineering
-        - expert: C, JavaScript, PHP
-        - pro: C++, C++/CLI, VC++, Java
-        - Frameworks, APIs, Protocols :
-          - Windows API, VSCode API, OpenAI API, Azure API, many more...
-          - autogen, React, Angular, Node.js, Django
-          - .Net, .Net Core, WPF/XAML, MAUI, ASP.NET (Core)
-          - TypeScript, WebComponents, htmx, ZeroMQ
-          - REST, GraphQL, OAuth, JWT, gRPC, Websockets, Cryptogr
-        - MS-SQL, MySQL, Postgres, Redis, Entity Framework, 
-        - Container, OCI: 
-          - Docker, Kubernetes (moby, sysbox, devcontainer,...)
-        - Automation:
-          - Powershell, Python, Jenkins, Gitea, GitHub Actions
-         
-    - Expert with Windows(Server|Desktop) and Linux servers(various) using Shell.  
+### DevOps and Automation
+> the more the better, automation is the future!
 
-    - I worked in agile managed projects for many years and in all roles. I like a progressive Scrum XP approach  
-      while also regarding parameters like policy, requirements, setting or teamsize.
+## Main Techstack
+* Expert (currently active): C#, Natural Language Prompt-engineering
+* Expert: C, JavaScript, PHP
+* Pro: C++, C++/CLI, VC++, Java
+* Frameworks, APIs, Protocols :  
+  - Windows API, VSCode API, OpenAI API, Azure API, many more...
+  - autogen, React, Angular, Node.js, Django
+  - .Net, .Net Core, WPF/XAML, MAUI, ASP.NET (Core)
+  - TypeScript, WebComponents, htmx, ZeroMQ
+  - REST, GraphQL, OAuth, JWT, gRPC, Websockets, Cryptogr
+  - MS-SQL, MySQL, Postgres, Redis, Entity Framework, 
+* Container, OCI  
+Docker, Kubernetes (moby, sysbox, devcontainer,...)  
+
+* Automation  
+Powershell, Python, Jenkins, Gitea, GitHub Actions
+
+* OS  
+Expert with Windows(Server|Desktop) and Linux servers(various) using Shell.  
+
+
 
 ### 💡 How to start?
 
@@ -59,7 +64,7 @@ Happy to connect with you and find what new possibilities we can uncover. maybe 
 
 ### 🎙️ I also do music/multimedia production  
 
-with Ableton, Rekordbox, Traktor Pro, After Effects, Photoshop, Premiere, many more 🎧  
+with Ableton, Rekordbox, Traktor Pro, After Effects, Photoshop, Premiere, many more 🎧[^djing]  
 
 ### 📈 Good-Enough-to-mention-Skills from i.e. Workshops, POCs, Presentations, simple projects  
 
@@ -73,8 +78,14 @@ with Ableton, Rekordbox, Traktor Pro, After Effects, Photoshop, Premiere, many m
     - Mobile App POC: Cross-Platform with React Native
     - LLMs, AI(Agent)-Frameworks, Prompt Engineering, a lot of Python..... and preparing for AGI 🔭
 
-📫 [My LinkedIn](https://www.linkedin.com/in/42dorian/)
+📫 [My LinkedIn](https://www.linkedin.com/in/42dorian/)  
+  
+[^paperclip]:  
+    The infamous Paperclip Maximizer:  
+    The Paperclip Maximizer is a thought experiment described by Swedish philosopher Nick Bostrom in 2003. It illustrates the existential risk that an artificial general intelligence may pose to human beings if it is successfully designed to pursue even seemingly harmless goals. The scenario describes an advanced AI tasked with manufacturing paperclips.0 The paperclip maximizer is an example of instrumental convergence, which suggests an AI could seek to fulfil a harmless goal in harmful ways from the human point of view. Harnessing a true AI to simple, seemingly innocent tasks could pose existential risk to humans if we don't safely know how to make a machine value human life.1
 
+[^djing]:
+    Sometimes I enjoy DJing various electronic music
 <!--
 
 📫 [My GitHub](https://github.com/0xDO)

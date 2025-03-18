@@ -25,8 +25,8 @@ I am working in agile managed projects for many years and in all roles. I like a
 ### Trading & Finance
 > I worked with all major api|data|service providers for Stocks, Options, Forex, FIAT or Crypto like Binance, Kraken, Bloomberg, Euronext, NYSE, AMSE, and many more
 
-### AI, LLMs, NLP... Absolutely hot and must-have! Beware📎[^paperclip]
-> Following the latest development, learning the new tech to help shaping the future
+### Prompt engineering, SOTA LLMs, NLP, ML ... Absolutely hot and must-have! Beware📎[^paperclip]
+> Following the latest development, learning and implementing this amazing technology shaping the future
 
 ### APIs, IaaS, Microservices
 > Create custom or extend exisiting distributed services 

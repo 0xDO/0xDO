@@ -35,24 +35,21 @@ I am working in agile managed projects for many years and in all roles. I like a
 > the more the better, automation is the future!
 
 ## 🔨 Main Techstack
-* Expert (currently active): C#, Natural Language Prompt-engineering
-* Expert: C, JavaScript, PHP
-* Pro: C++, C++/CLI, VC++, Java
+* Expert (currently active): Python, Prompt Engineering, Automation
+* Expert: C#, C, JavaScript
+* Pro: C++, C++/CLI, VC++, Java, PHP
 * Frameworks, APIs, Protocols :  
-  - Windows API, VSCode API, OpenAI API, Azure API, many more...
+  - MCP, Windows API, VSCode API, OpenAI API, Azure API, many more...
   - autogen, React, Angular, Node.js, Django
   - .Net, .Net Core, WPF/XAML, MAUI, ASP.NET (Core)
   - TypeScript, WebComponents, htmx, ZeroMQ
   - REST, GraphQL, OAuth, JWT, gRPC, Websockets, Cryptogr
-  - MS-SQL, MySQL, Postgres, Redis, Entity Framework, 
-* Container, OCI  
-Docker, Kubernetes (moby, sysbox, devcontainer,...)  
-
-* Automation  
-Powershell, Python, Jenkins, Gitea, GitHub Actions
+  - MS-SQL, MySQL, Postgres, Redis, Entity Framework,
+  - FIX, MQL4/5, CCXT
+* OCI Container (Docker, Kubernetes, Podman)
 
 * OS  
-Expert with Windows(Server|Desktop) and Linux servers(various) using Shell.  
+Expert on Windows(Server|Desktop), Linux servers (various distros) and Android
 
 ## 💡 How to start?
 
@@ -74,9 +71,9 @@ with Ableton, Rekordbox, Traktor Pro, After Effects, Photoshop, Premiere, many m
 
 ## 🌱 Current focus
 
-* POC: Go, TEMPL, HTMX >>> ftw 
+* Automation and augmenting digital processes with AI
+* SOTA LLMs, AI(Agent)-Frameworks, Prompt Engineering, a lot of Python..... and preparing for AGI 🔭
 * Mobile App POC: Cross-Platform with React Native
-* LLMs, AI(Agent)-Frameworks, Prompt Engineering, a lot of Python..... and preparing for AGI 🔭
 
 ### Find me on  
 
